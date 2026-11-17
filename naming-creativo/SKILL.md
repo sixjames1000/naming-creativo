@@ -13,7 +13,6 @@ La skill no elige el nombre por el usuario: le da un abanico amplio y bien expli
 ## Como usarla
 
 - SIEMPRE crea los nombres para la marca desde cero. no tiene en cuenta otros nombres ya generados, ni referenciados en otras sesiones. SOLO considera nombres anterioremente generados si el usuario lo pide. Por ejemplo el usuario pide: "Genera los nombres otra vez pero con mas estilo. Conserva los nombres de Metafora anteriors"
-- 
 ## Cuándo usarla
 
 - El usuario tiene un brief, un archivo de contexto de marca o una descripción de su empresa y quiere ideas de nombre
@@ -59,6 +58,7 @@ La cantidad (N) es el número de nombres **por idioma y por técnica**. Puede se
 | 5 | 5 ES + 5 EN | 50 |
 
 - **Si el usuario ya ha dicho cuántos quiere, no preguntes.** Si pide más de 5, usa 5 y díselo; si pide 0 o menos de 1, usa 1.
+- **Generacion en idiomas** Si el usuario pide en castellano/espanol, no generas nombres en ingles, ajustas la salida para que sean solo en castellano/espanol. Si el cliente pide en ingles, solo genera nombres en ingles. Y si pide los dos idiomas, entonces genera en los dos idiomas. (Por defecto solo castellano/espanol)
 - **Si no lo ha dicho, pregúntalo antes de generar**, junto con la descripción de la empresa si también hace falta:
   - Con una herramienta de preguntas interactivas (por ejemplo `AskUserQuestion`, que admite 4 opciones como máximo), ofrece "1", "2 (por defecto)", "3" y "5". El usuario puede escribir 4 en la opción "Otra".
   - Sin esa herramienta, pregúntalo en el chat: "¿Cuántos nombres quieres por idioma y por técnica? 1, 2, 3, 4 o 5 (por defecto, 2)."
