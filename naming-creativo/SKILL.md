@@ -74,6 +74,7 @@ Para cada técnica, genera **N nombres en español y N en inglés** (ver "Cantid
 | Recorte | **Recorte o fusión** | Cortar una palabra o unir dos en una sola | Spotify, Pinterest, Netflix |
 | Raíz | **Raíz de otra lengua** | Partir de una raíz latina, griega o de otro idioma con un significado ligado a la marca | Volvo ("yo ruedo" en latín), Lego ("juega bien" en danés) |
 | Error | **Error intencionado** | Una palabra conocida con una letra cambiada, quitada o duplicada para hacerla propia | Flickr, Tumblr, Google |
+| SimilProducto | **Error intencionado** | Una palabra que tenga relacion con el producto, su forma particular, su esencia, junto con lo que el brief distinga como valor especial del producto de la marca | en base las características del producto detallado en el brief |
 
 ### Qué significa el idioma (ES / EN)
 
