@@ -10,7 +10,10 @@ Convierte un brief sencillo de empresa en una batería de nombres con personalid
 La skill no elige el nombre por el usuario: le da un abanico amplio y bien explicado para que elija.
 
 ---
+## Como usarla
 
+- SIEMPRE crea los nombres para la marca desde cero. no tiene en cuenta otros nombres ya generados, ni referenciados en otras sesiones. SOLO considera nombres anterioremente generados si el usuario lo pide. Por ejemplo el usuario pide: "Genera los nombres otra vez pero con mas estilo. Conserva los nombres de Metafora anteriors"
+- 
 ## Cuándo usarla
 
 - El usuario tiene un brief, un archivo de contexto de marca o una descripción de su empresa y quiere ideas de nombre
