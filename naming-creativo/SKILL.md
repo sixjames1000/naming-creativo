@@ -1,9 +1,6 @@
 ---
 name: naming-creativo
 description: "Lee un brief sencillo de una empresa o marca y propone nombres con personalidad, no descriptivos: de 1 a 5 candidatos en español y los mismos en inglés (2 por defecto) por cada una de 5 técnicas de naming (metáfora de otro mundo, palabra inventada por su sonido, recorte o fusión, raíz de otra lengua, error intencionado). Los presenta en una sola tabla con la idea de cada nombre y siempre guarda un fichero markdown naming-creativo_<fecha>.md con la lista. Usa esta skill siempre que el usuario pida nombres para una marca, producto o empresa, quiera ideas de naming a partir de un brief o un archivo de contexto de marca, o se queje de que los nombres que le dan son sosos, genéricos o demasiado descriptivos (tipo 'Daily Bag'). Se activa con: naming, nombres de marca, ideas de nombre, buscar nombre, propuesta de nombres, nombres creativos, nombres no descriptivos, brand naming, brand name ideas."
-category: brand
-catalog_summary: "Nombres no descriptivos en español e inglés, 5 técnicas, tabla única y fichero markdown"
-display_order: 2
 ---
 
 # Naming creativo
